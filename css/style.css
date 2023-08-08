@@ -104,5 +104,6 @@ body{
 }
 .container .info-container{
     height: 400px;
+    text-align: center;
 }
     }
